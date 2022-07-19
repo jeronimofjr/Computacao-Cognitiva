@@ -48,3 +48,14 @@ Tópicos abordados:
 - Segmentação Não supervisionada
 - Segmentação de Felzenszwalb
 
+#### Atividade 04 - Classificação de Imagens com Redes Neurais
+
+Tópicos abordados:
+
+- Pré-processamento de dados
+- Data Augmentation
+- Redes Neurais Convolucionais (CNN)
+- Construção de uma Rede Neural do zero
+- Transfer Learning:
+	- VGG16
+
